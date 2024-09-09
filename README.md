@@ -7,12 +7,13 @@
 💼 With over 3 years of experience as a Data Analyst, I've honed my skills in:
 
 - SQL
-- Shell Scripting
-- Microsoft Excel
 - Python
+- Shell Scripting
 - Microsoft Power BI
+- Microsoft Excel
 - pySpark
 - Azure Data Factory
+- Azure Synapse Analytics
 <br>
 💻 I've worked on various projects involving data analysis, visualization, and reporting, leveraging my expertise in these tools to derive valuable insights and drive informed decision-making.<br>
 💞️ I’m always open to collaborate on projects related to data analysis, visualization, and engineering. Let's create something amazing together!,<br>
