@@ -1,4 +1,5 @@
 👋 Hi, I’m Samsubhra Mallick! Welcome to my GitHub profile.
+<br>
 👀 I’m passionate about the world of data and analytics, constantly seeking new insights and solutions.
 🌱 I’m currently diving into the exciting world of Azure Databricks, expanding my skill set and exploring the realms of Data Engineering.
 
