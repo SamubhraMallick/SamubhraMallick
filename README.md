@@ -4,14 +4,12 @@
 <br>
 🌱 I’m currently diving into the exciting world of Azure Databricks, expanding my skill set and exploring the realms of Data Engineering.
 
-💼 With over 4 years of experience as an IT professional, I've honed my skills in:
+💼 With over 5 years of experience as an IT professional, I've honed my skills in:
 
 - SQL, PL/SQL
-- Informatica Powercenter
-- Shell Scripting
 - Microsoft Power BI
 - Tableau
-- Core java
+- Informatica Powercenter
 - Python
 - Microsoft Excel
 - pySpark
